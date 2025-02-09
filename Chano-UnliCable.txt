@@ -364,7 +364,7 @@ https://ni.bobay.workers.dev/1135/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=31363233383335303430363337303331:4444313067453278686a4b6b7030494b
 https://ni.bobay.workers.dev/1204/manifest.mpd
 
-#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="chan" tvg-logo="https://i.imgur.com/TaxDCG8.png" tvg-name="Chano",PRIVE
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="chan" tvg-logo="https://i.imgur.com/eCc20MB.png" tvg-name="Chano",PRIVE
 http://familyip.vip/IN_PRIVEHD/index.m3u8
 
 #EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/dG0piCF.png" group-title="🇵🇭 Chano",ROCK ACTION
