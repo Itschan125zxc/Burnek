@@ -1,0 +1,476 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/7GwxLPr.png" group-title="🇵🇭 Chano",ANC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363234353837393638333931313738:335a493259306157495a557356494b44
+https://ni.bobay.workers.dev/1216/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="🇵🇭 Chano",ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735313439343038343136333130:386c6b6a64704d4d3039354d4e6a6933
+https://ni.bobay.workers.dev/1335/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/utmMj7L.png" group-title="🇵🇭 Chano",ANIMAX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/IERcao8.png" group-title="🇵🇭 Chano",ASIAN FOOD NETWORK
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735313536373634343534323132:71504433773565593837796d68613333
+https://ni.bobay.workers.dev/1342/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/axpZjLc.png" group-title="🇵🇭 Chano",AXN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323239393136303432373230:3132373248597249506d6e31326c3246
+https://cnvg.katir.workers.dev/1182/manifest.mpd
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA",BBC AMERICA
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/ivWFFAh.png" group-title="🇵🇭 Chano",BBC EARTH
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/OAWBJOE.png" group-title="🇵🇭 Chano",BBC LIFESTYLE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" tvg-name="BBC WORLD NEWS",BBC WORLD NEWS
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="Bloomberg.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" tvg-name="BLOOMBERG",BLOOMBERG
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="Boomerang.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang",Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/wi9agDS.png" group-title="🇵🇭 Chano",BUKO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-name="CARTOON NETWORK",CARTOON NETWORK NEW
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="🇵🇭 Chano",CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323238323938303333343430:536a4774797143315773693133654b73
+https://ni.bobay.workers.dev/1178/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/v0fPJZJ.png" group-title="🇵🇭 Chano",CARTOONITO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232313038303239323838303638:7768354e65797950397a6c566d356256
+https://cnvg.katir.workers.dev/1125/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/jKBBBOJ.png" group-title="🇵🇭 Chano",CELESTIAL CLASSIC MOVIES
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331313938313138383033383733:395334474d7735663579353235453534
+https://cnvg.katir.workers.dev/1244/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/18mk5Lw.png" group-title="🇵🇭 Chano",CELESTIAL MOVIES PINOY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230383933303132303032303231:6b5058557254355845335a6e63737030
+https://ni.bobay.workers.dev/1077/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/vCrXbKk.png" group-title="🇵🇭 Chano",CINEMA ONE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363736373234333532363730:684b6853695333444a6b345579376a61
+https://ni.bobay.workers.dev/1283/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/KJ2eCX0.png" group-title="🇵🇭 Chano",CINEMA WORLD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233303438363730383939353239:356c3450446f61674435646b36563675
+https://cnvg.katir.workers.dev/1158/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="🇵🇭 Chano",CINEMA MAX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232303137333630323534393638:63547a3159507a7036314e3357436c7a
+https://ni.bobay.workers.dev/1108/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/1d6MaZ3.png" group-title="🇵🇭 Chano",CINEMO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363735393833333531383134:4a4f75336e6e30764575624855326937
+https://cnvg.katir.workers.dev/1254/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="🇵🇭 Chano",CNN INTERNATIONAL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230383933303132303032313231:6b5058557254355845335a6e63737030
+https://ni.bobay.workers.dev/1073/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="🇵🇭 Chano",CRIME + INVESTIGATION
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353335353435353432363238:684b3276585a37386130763047346a54
+https://ni.bobay.workers.dev/1144/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="🇵🇭 Chano",CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="🇵🇭 Chano",COMEDY CENTRAL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8757de5a495ce5db4893c2eefc11e58:d8309cd9fa8c286f277b4cb9841d7bd2
+https://cache1.zapitv.com/live/eds_c2/comedy_central/dash_live_enc/comedy_central.mpd
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="The.Cooking.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" tvg-name="COOKING",COOKING
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4
+http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="Destination.America.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-name="Destination America",Destination America
+http://fl3.moveonjoy.com/Destination_America/index.m3u8
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="🇵🇭 Chano",DISCOVERY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323330323736303433313938:6774487273654e4b313631333258706f
+https://cnvg.katir.workers.dev/1194/manifest.mpd
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel US",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="Discovery.Family.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" tvg-name="DISCOVERY FAMILY CHANNEL",DISCOVERY FAMILY CHANNEL
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="Discovery.Life.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" tvg-name="DISCOVERY LIFE",DISCOVERY LIFE
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL
+http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" tvg-name="DISNEY JR",DISNEY JR
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/Q9k7Lxe.png" group-title="🇵🇭 Chano",DREAMWORKS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/QCby12a.png" group-title="🇵🇭 Chano",FIGHT SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
+https://vision.seesie.workers.dev/fight-sports
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" tvg-name="FXX",FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="FYI.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" tvg-name="FYI FHD",FYI FHD
+http://fl2.moveonjoy.com/FYI/index.m3u8
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" tvg-name="GAME SHOW NETWORK",GAME SHOW NETWORK
+http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/Tv5Sixt.png" group-title="🇵🇭 Chano",GMA 7
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
+https://cnvg.katir.workers.dev/1093/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/b98ULOT.png" group-title="🇵🇭 Chano",GMA PINOY TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
+https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/eP7CZWj.png" group-title="🇵🇭 Chano",GTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
+https://cnvg.katir.workers.dev/1143/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="🇵🇭 Chano",HBO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031323938:715a36614f62445635304852794b3676
+https://ni.bobay.workers.dev/1065/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="🇵🇭 Chano",HBO HITS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="🇵🇭 Chano",HBO SIGNATURE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="🇵🇭 Chano",HISTORY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230383830323637303030383735:304d384b45573249714d6b7569675837
+https://cnvg.katir.workers.dev/1074/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/EeHLoSx.png" group-title="🇵🇭 Chano",HITS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/nVjfZA0.png" group-title="🇵🇭 Chano",IBC 13
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/3dioCdy.png" group-title="🇵🇭 Chano",INC TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393132323937323234333139:74516e7a4f3472713651316233425841
+https://ni.bobay.workers.dev/1092/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/i9RJPiT.png" group-title="🇵🇭 Chano",JEEPNEY TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363735363832333531363036:723548436f6e34333961586150756649
+https://cnvg.katir.workers.dev/1250/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/j2KzfYp.png" group-title="🇵🇭 Chano",KAPAMILYA CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-chan-dash-abscbnono/ec4be726-079e-40b1-ae93-9d0109a26bfe/index.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/nAuE786.png" group-title="🇵🇭 Chano",KBS WORLD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735373632313135333130303533:3473433831554435334e4a4567337952
+https://cnvg.katir.workers.dev/1353/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/SaY3lSn.png" group-title="🇵🇭 Chano",KNOWLEDGE CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735313534353138343339333732:3970705738596631374f54324c384f57
+https://cnvg.katir.workers.dev/1340/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="🇵🇭 Chano",LIFETIME
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031313938:715a36614f62445635304852794b3676
+https://cnvg.katir.workers.dev/1075/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/Ust9dLN.png" group-title="🇵🇭 Chano",LIVING ASIA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232363231343638363035363236:544962686d3165306836346e73673346
+https://cnvg.katir.workers.dev/1154/manifest.mpd
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="MeTV.KSAT-DT2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" tvg-name="MeTV",MeTV
+http://fl2.moveonjoy.com/ME_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/BaNRhGq.png" group-title="🇵🇭 Chano",MOONBUG
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/Kh8KtXK.png" group-title="🇵🇭 Chano",MOTORVISION+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331313938383834383134323536:387938463676644f7141503474507435
+https://ni.bobay.workers.dev/1245/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="🇵🇭 Chano",MTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=10f86eedfa603133e035c4c64226dd6b:1678761258b8a16d5d5b9241bd647536
+https://cache3.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="🇵🇭 Chano",MTV LIVE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
+https://v4-vno-j13-cdn-01.live.cdn.cgates.lt/live/dash/560701/index.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/nbQPqUp.png" group-title="🇵🇭 Chano",MYX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363736333231333532323639:396c467233356c357355497565533536
+https://cnvg.katir.workers.dev/1252/manifest.mpd
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic",National Geographic
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="National.Geographic.Wild.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" tvg-name="National Geographic Wild",National Geographic Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="🇵🇭 Chano",NBA TV PHILIPPINES
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230383932393934303031373831:36393034643046463738544b77676768
+https://ni.bobay.workers.dev/1064/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/diHIxJr.png" group-title="🇵🇭 Chano",NET 25
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393131363337323232353030:56783536726130576e5a4171564c3741
+https://ni.bobay.workers.dev/1090/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="🇵🇭 Chano",NICKELODEON
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363639393633373136353837383139:767561696f37546667306c7366623536
+https://cnvg.katir.workers.dev/1313/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="🇵🇭 Chano",NICK JR.
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233343133343534323335373438:75467735704170524847774a63594361
+https://ni.bobay.workers.dev/1215/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="🇵🇭 Chano",NICKTOONS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
+https://v4-vno-j13-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/Y1yYuiy.png" group-title="🇵🇭 Chano",ONE NEWS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/zwiG3v8.png" group-title="🇵🇭 Chano",ONE PH
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/LvswLsB.png" group-title="🇵🇭 Chano",ONE SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/Z6spem1.png" group-title="🇵🇭 Chano",ONE SPORTS+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+#EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" tvg-name="Paramount Network",Paramount Network
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/S0Y9S7x.png" group-title="🇵🇭 Chano",PBA RUSH
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/g2WCFG2.png" group-title="🇵🇭 Chano",PBO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230393830323336303039323834:7676746b584436514331503256784654
+https://cnvg.katir.workers.dev/1078/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/san5QRy.png" group-title="🇵🇭 Chano",PILIPINAS TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/ZwWQxaT.png" group-title="🇵🇭 Chano",PREMIER FOOTBALL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232313130313238323933363838:3243794139594e6435434b517a497070
+https://cnvg.katir.workers.dev/1127/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/DrxR9FO.png" group-title="🇵🇭 Chano",PREMIER SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232313130333638323933383631:7031306148395845396e32374369485a
+https://ni.bobay.workers.dev/1135/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/wq3xALC.png" group-title="🇵🇭 Chano",PREMIER SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233383335303430363337303331:4444313067453278686a4b6b7030494b
+https://ni.bobay.workers.dev/1204/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/dG0piCF.png" group-title="🇵🇭 Chano",ROCK ACTION
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
+https://vision.seesie.workers.dev/rock-action
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/ZxLMOwB.png" group-title="🇵🇭 Chano",ROCK ENTERTAINMENT
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735313536353539343439373937:535a566358303032677658776a413138
+https://ni.bobay.workers.dev/1326/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/4t1jghm.png" group-title="🇵🇭 Chano",RPTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/kGFQaAj.png" group-title="🇵🇭 Chano",SARI SARI
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/UoCiY3l.png" group-title="🇵🇭 Chano",SOLAR FLIX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331313738363633373739363234:5436395534576f7638744a43356d336e
+https://ni.bobay.workers.dev/1243/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/Fh0hspP.png" group-title="🇵🇭 Chano",TAP ACTION FLIX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/Zca4Aze.png" group-title="🇵🇭 Chano",TAP MOVIES
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/cZ99ro6.png" group-title="🇵🇭 Chano",TAP SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233303437333337383938393931:4344324b7661386b4579323633343645
+https://ni.bobay.workers.dev/1151/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/PreQre9.png" group-title="🇵🇭 Chano",TELERADYO SERBISYO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
+https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/SyZp07q.png" group-title="🇵🇭 Chano",THRILL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331313938333434383133383337:32776734365267686977387049356d48
+https://ni.bobay.workers.dev/1253/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/5EMJlbG.png" group-title="🇵🇭 Chano",TLC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323239363937303432353735:39574d333277376f336d374244323159
+https://ni.bobay.workers.dev/1181/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 Chano",TMC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/TehkYdU.png" group-title="🇵🇭 Chano",TRUE FM TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/lyjZUke.png" group-title="🇵🇭 Chano",TV 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/XAmlezy.png" group-title="🇵🇭 Chano",TVN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/gaEbxTn.png" group-title="🇵🇭 Chano",TVN MOVIES
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/v4C1OCV.png" group-title="🇵🇭 Chano",UAAP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/3ZdS66y.png" group-title="🇵🇭 Chano",UNIFI
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6bd9264f24444c9a1bea842ba0bc33d:00c737b67ab210796510463a99b0b00d
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/HZ5nGqT.png" group-title="🇵🇭 Chano",UNTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393131383734323234313831:7a333137597652656743393372427153
+https://ni.bobay.workers.dev/1091/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/pyc6RyR.png" group-title="🇵🇭 Chano",USA EAST
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/266guR1.png" group-title="🇵🇭 Chano",VIVA CINEMA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230393830353534303039353831:506e354374394938446439344b6f3741
+https://cnvg.katir.workers.dev/1079/manifest.mpd
+
+#EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/rFaMDWl.png" group-title="🇵🇭 Chano",WARNER TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+
+
