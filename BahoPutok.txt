@@ -33,7 +33,7 @@ https://cnvg.katir.workers.dev/1182/manifest.mpd
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 group-title="🇵🇭 Chano" tvg-id="BBC.EARTH.PLDT" tvg-logo="https://i.imgur.com/ivWFFAh.png" tvg-name="BBC EARTH",BBC EARTH
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.m3u8
+http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 
 #EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/OAWBJOE.png" group-title="🇵🇭 Chano",BBC LIFESTYLE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
