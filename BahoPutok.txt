@@ -96,9 +96,7 @@ https://cnvg.katir.workers.dev/1158/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="https://i.imgur.com/PccIMu9.png" group-title="🇵🇭 Chano",CINEMO
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363735393833333531383134:4a4f75336e6e30764575624855326937
-https://cnvg.katir.workers.dev/1254/manifest.mpd
+http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 
 #EXTINF:-1 tvg-id="chan" tvg-name="Chano" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="🇵🇭 Chano",CNN INTERNATIONAL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
